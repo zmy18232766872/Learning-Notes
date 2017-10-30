@@ -5,6 +5,6 @@ NodeJs 学习笔记
 
 ```
 for(var i=0;i<5;i++){
-console.log(i);
+  console.log(i);
 }
 ```
